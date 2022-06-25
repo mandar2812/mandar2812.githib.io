@@ -1,18 +1,19 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Camporeale":
+  - firstname: ["Enrico", "E.", "E"]
+    url: https://ecamporeale.github.io/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Mall":
+  - firstname: ["Raghvendra", "R.", "R"]
+    url: https://sites.google.com/site/raghvendramallmlresearcher/home
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Suykens":
+  - firstname: ["Johan", "J"]
+    url: https://www.esat.kuleuven.be/sista/members/suykens.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Sebag":
+  - firstname: ["Michélè", "Michele", "M"]
+    url: https://www.lri.fr/~sebag/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Furtlehner":
+  - firstname: ["Cyril", "C"]
+    url: https://www.lri.fr/membre_en.php?mb=488
