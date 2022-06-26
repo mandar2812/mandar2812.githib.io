@@ -15,15 +15,14 @@
       institution: Technische Universiteit Eindhoven, the Netherlands
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Machine Learning in Space Weather
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Probabilistic forecasting
+            - Bayesian parameter identification.
+            - Uncertainty identification.
+    - title: Master of Science - Artificial Intelligence
+      institution: Katholieke Universiteit Leuven, Leuven, Belgium
+      year: 2015
       description:
         - Description 1.
         - Description 2.
